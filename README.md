@@ -1,10 +1,5 @@
 # Expense Tracker Application
 
-![IMG_1065](https://github.com/eureene/saveAi/assets/174897130/ceb08a70-75a1-437b-8b27-eb475f59973d)
-![IMG_1066](https://github.com/eureene/saveAi/assets/174897130/863565cb-3b12-4171-aa67-7210266d302c)
-![IMG_1067](https://github.com/eureene/saveAi/assets/174897130/8ae2999e-58f4-4359-a61b-964fe2c8ce53)
-![IMG_1068](https://github.com/eureene/saveAi/assets/174897130/0715ad02-6cd9-4ed0-a144-b7642e927b0e)
-
 
 ## Description
 
@@ -24,3 +19,10 @@ les donnees du recus a savoir les produits achete et leurs prix. L'application o
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
    git clone https://github.com/votre-utilisateur/expense-tracker.git
+
+
+   
+![IMG_1065](https://github.com/eureene/saveAi/assets/174897130/ceb08a70-75a1-437b-8b27-eb475f59973d)
+![IMG_1066](https://github.com/eureene/saveAi/assets/174897130/863565cb-3b12-4171-aa67-7210266d302c)
+![IMG_1067](https://github.com/eureene/saveAi/assets/174897130/8ae2999e-58f4-4359-a61b-964fe2c8ce53)
+![IMG_1068](https://github.com/eureene/saveAi/assets/174897130/0715ad02-6cd9-4ed0-a144-b7642e927b0e)
